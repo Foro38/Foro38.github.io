@@ -1,2 +1,1 @@
-# BeeFFF
-website
+This website was created because I was bored
